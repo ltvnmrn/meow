@@ -1,4 +1,4 @@
 # **КИЦЯ-ГОДІВНИЦЯ**
 <p align="center">
-  <img width="350" height="400" src="кг5.jpg">
+  <img width="360" height="410" src="кг5.jpg">
 </p>
