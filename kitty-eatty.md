@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=U2tMRQwDlQU">
-  <img src="кг6.jpg" alt="руда киця" width="100" height="150">
+  <img src="кг6.jpg" alt="руда киця" width="150" height="150">
 
 <a href="https://www.youtube.com/watch?v=i-AXImNxCAE">
   <img align="right" width="150" height="150" src="кг7.jpg">
