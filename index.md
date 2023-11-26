@@ -1,14 +1,14 @@
 ## Зміст 
 
-[Руді киці](index.md)
++ [Руді киці](index.md)
 
-[Киці-діловиці](kitty-talks-business.md)
+  + [Киці-діловиці](kitty-talks-business.md)
 
-[Киці-годівниці](kitty-eatty.md)
+  + [Киці-годівниці](kitty-eatty.md)
 
-[Киці-танцівниці](kitty's-got-moves.md)
+  + [Киці-танцівниці](kitty's-got-moves.md)
 
-[Контакти](contact.md)
++ [Контакти](contact.md)
 
 # Киці бувають різні
 **АЛЕ <span style="color:orange">РУДІ КИЦІ</span> ОСОБЛИВІ**
